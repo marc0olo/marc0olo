@@ -11,6 +11,10 @@ My name is Marco and I am not a random software developer:
 
 ## &#x1f4c8; GitHub Stats
 <div>
-  <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=marc0olo&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide=css,html,tex,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-  <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=marc0olo&count_private=true&role=OWNER,COLLABORATOR&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="#">
+    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=marc0olo&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&hide=css,html,tex,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=marc0olo&count_private=true&role=OWNER,COLLABORATOR&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 </div>
