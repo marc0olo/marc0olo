@@ -4,10 +4,10 @@ My name is Marco and I am not a random software developer:
 
 - always putting myself in the perspective of the users
 - love doing Scrum and push me and my team to new limits
-- knowing others can code better than me
+- highly technically educated but knowing others can code better than me
 - never too shy to take action myself in development if required
-- having an extremely good eye for detail
-  => if there are any issues I will probably find them 😉
+- linking the dots & having an extremely good eye for detail  
+=> if there are any issues I will probably find them 😉
 
 ## &#x1f4c8; GitHub Stats
 <div>
