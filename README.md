@@ -2,8 +2,8 @@
 
 I am Marco, Senior Developer Relations Engineer at [DFINITY](https://github.com/dfinity), the core contributor to the [Internet Computer](https://internetcomputer.org) (ICP).
 
-## Why build on the Internet Computer? 🚀
-The Internet Computer makes the Internet a World Computer and enables you to build anything without traditional IT and Big Tech. It hosts decentralized serverless compute that’s simpler, immune to cyber attack, unstoppable, and controllable by DAOs. Create web3 social networks and media, socialfi, games, multi-chain dapps, AI, or an enterprise app by leveraging following capabilities:
+## Why build on ICP? 🚀
+ICP makes the Internet into a World Computer and enables you to build anything without traditional IT and Big Tech. It hosts decentralized serverless compute that’s simpler, immune to cyber attack, unstoppable, and controllable by DAOs. Create web3 social networks and media, socialfi, games, multi-chain dapps, AI, or an enterprise app by leveraging following capabilities:
 
 - [100% On-Chain Web Experience](https://internetcomputer.org/capabilities) - The Internet Computer is the only blockchain with canister smart contracts that can serve web by processing HTTP requests. This allows 100% of online services to run from the blockchain, which allows for full decentralization.
   -  [SEO Support](https://medium.com/dfinity/seo-support-for-100-on-chain-websites-built-on-the-internet-computer-19c951d73853) - Build and run dapps entirely on-chain while being discoverable on search engines with SEO.
