@@ -1,19 +1,25 @@
-# Hello, folks! 👋
+# Hello, I'm Marco 👋
 
-I am Marco, Senior Developer Relations Engineer at [DFINITY](https://github.com/dfinity), the core contributor to the [Internet Computer](https://internetcomputer.org) (ICP).
+Senior DevRel at [DFINITY](https://github.com/dfinity), the core contributor to the [Internet Computer (ICP)](https://internetcomputer.org).
 
-## Why build on ICP? 🚀
-ICP makes the Internet into a World Computer and enables you to build anything without traditional IT and Big Tech. It hosts decentralized serverless compute that’s simpler, immune to cyber attack, unstoppable, and controllable by DAOs. Create web3 social networks and media, socialfi, games, multi-chain dapps, AI, or an enterprise app by leveraging following capabilities:
+## What is the Internet Computer?
+The IC is a decentralized cloud infrastructure that allows developers to deploy backend services without managing a traditional IT stack. It provides a sandboxed execution environment via WebAssembly (Wasm) where compute and storage are natively unified.
 
-- [100% On-Chain Web Experience](https://internetcomputer.org/capabilities) - The Internet Computer is the only blockchain with canister smart contracts that can serve web by processing HTTP requests. This allows 100% of online services to run from the blockchain, which allows for full decentralization.
-  -  [SEO Support](https://medium.com/dfinity/seo-support-for-100-on-chain-websites-built-on-the-internet-computer-19c951d73853) - Build and run dapps entirely on-chain while being discoverable on search engines with SEO.
-- [Chain Fusion](https://internetcomputer.org/chainfusion) - Chain Fusion enables smart contracts to interact with multiple networks. This allows developers to build multichain use cases on various blockchains.
-  - [Bitcoin Integration](https://internetcomputer.org/bitcoin-integration) - Leveraging Chain Fusion Technology, ICP canister smart contracts can hold a Bitcoin public key, sign transactions with it, and directly read and write to the Bitcoin network. Build incredible dapps that natively interact with the Bitcoin network.
-  - [Extend Ethereum & Other Blockchains](https://wiki.internetcomputer.org/wiki/Extend_Bitcoin,_Ethereum_and_other_blockchains) - Using chain-key ECSDA signatures (advanced threshold ECDSA), the Internet Computer will integrate with Ethereum. Internet Computer smart contracts can access and use all digital assets like ERC-20 and ERC-721 tokens from Ethereum, and smart contracts on Ethereum can use the power of IC smart contracts, e.g., low-cost storage and computation.
-- [Daemon Contracts (Timers/Heartbeats)](https://internetcomputer.org/capabilities/daemon-contracts) - On the Internet Computer blockchain, you can create canister smart contracts that run like daemon processes — that is, you can configure them so that they are automatically activated by the network itself at specified block intervals.
-- [DAOs](https://internetcomputer.org/sns) - The Internet Computer allows developers to turn their dapps into a DAO to achieve full decentralization — 100% on-chain.
-- [Internet Identity](https://internetcomputer.org/internet-identity) - The Internet Computer has replaced the username and password model with a more advanced and much more secure method of cryptographic authentication that is more convenient, works across all of a user's devices, and helps protect user privacy. Based on W3C's Web Authentication (WebAuthn) Web standard. Using hardware-based user key protection.
-- [Limitless Scaling](https://internetcomputer.org/capabilities/limitless-scaling) - The Internet Computer (IC) can scale its capacity simply by adding additional nodes to fuel new subnets. Nodes and subnets are added via the [Network Nervous System](https://internetcomputer.org/nns) (NNS). In contrast, most other blockchains have transaction limits baked into the protocol (e.g. adding more servers to Bitcoin does not increase its transaction volume) and need cumbersome layers to address scaling.
-- [Randomness](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/advanced-features/randomness) - The Internet Computer provides a secure and verifiable way to generate random numbers directly within canisters.
-- [Reverse Gas Model](https://internetcomputer.org/capabilities/reverse-gas) - A browser is all you need to interact with smart contracts on the Internet Computer. Developers pay for gas. End users access and use dapps without tokens.
-- [WebAssembly](https://internetcomputer.org/capabilities/webassembly) - An advantage of the Internet Computer blockchain is its use of WebAssembly for executing smart contracts and decentralized applications — written in a wide variety of languages that compile to WebAssembly.
+* **Unified Execution:** Code and state reside in the same unit (canisters). This eliminates the need for separate database servers, load balancers, or manual OS security patching.
+* **Wasm-Native:** Develop in Rust, TypeScript, Python, or Motoko. Any language targeting WebAssembly can be deployed to the network, providing high-performance execution.
+* **Orthogonal Persistence (Motoko):** When building with [Motoko](https://docs.internetcomputer.org/motoko), your variables and data structures persist in memory automatically across upgrades. The runtime manages the state on your behalf—no serialization or external database logic required.
+* **Tamper-Proof Logic:** The platform uses threshold cryptography to ensure that code execution is consistently verifiable and immune to traditional single-point-of-failure attack vectors or root-access exploits.
+
+---
+
+## 🛠️ Developer Resources
+
+| Tool | Focus |
+| :--- | :--- |
+| **[icp-cli](https://github.com/dfinity/icp-cli)** | Modern CLI for building and deploying applications on the Internet Computer. |
+| **[icp.ninja](https://icp.ninja)** | Web-based IDE for rapid prototyping and exploring examples. |
+
+---
+
+### Links & Documentation
+[Official Documentation](https://docs.internetcomputer.org) • [GitHub](https://github.com/dfinity) • [Developer Forum](https://forum.dfinity.org)
